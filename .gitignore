@@ -1,0 +1,13 @@
+# --- .NET & Visual Studio ---
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+
+# --- Mac System Files ---
+.DS_Store
+
+# --- Security ---
+appsettings.Development.json
