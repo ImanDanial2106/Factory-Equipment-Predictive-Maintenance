@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FactoryEquipmentPdM/FactoryEquipmentPdM.csproj" />
+  <Project Path="SampleClassification/SampleClassification.csproj" />
+</Solution>

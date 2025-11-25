@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": ".NET Core Launch (console)", // You can rename this if you like
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // --- Ensure this path is correct ---
+            "program": "${workspaceFolder}/FactoryEquipmentPdM/bin/Debug/net9.0/FactoryEquipmentPdM.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/FactoryEquipmentPdM",
+            "stopAtEntry": false,
+            "console": "internalConsole" // Use internal console
+        }
+        // You can add more configurations later if needed
+    ]
+}
